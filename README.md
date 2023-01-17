@@ -2,8 +2,6 @@
 
 ### This simple app takes user input to create an alert which displays a short introduction, through the use of buttons, steppers, and labels
 
-`TODO://` Add app description
-
 ### App Walk-though
 
 --> <img src="ezgif.com-gif-maker.gif" width=200><br>
