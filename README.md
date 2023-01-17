@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
-<img src="codepath-IOSprework1/ezgif.com-gif-maker.gif" width=200><br> -->
+--> <img src="codepath-IOSprework1/ezgif.com-gif-maker.gif" width=200><br>
 
 ### Required Features
 
