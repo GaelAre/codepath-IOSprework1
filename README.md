@@ -6,7 +6,7 @@
 
 ### App Walk-though
 
---> codepath-IOSprework1/ezgif.com-gif-maker.gif
+--> <img src="ezgif.com-gif-maker.gif" width=200><br>
 
 ### Required Features
 
